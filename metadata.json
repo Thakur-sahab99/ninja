@@ -1,0 +1,6 @@
+{
+  "name": "Ninja",
+  "description": "Secure, end-to-end encrypted messenger with Signal-grade privacy and WhatsApp-style familiar UX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

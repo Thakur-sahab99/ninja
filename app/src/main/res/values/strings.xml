@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ninja</string>
+    <string name="app_tagline">Encrypted. Untraceable. Instant.</string>
+    <string name="chats_tab">Chats</string>
+    <string name="status_tab">Status</string>
+    <string name="calls_tab">Calls</string>
+    <string name="settings_title">Settings</string>
+    <string name="shadow_mode">Shadow Mode</string>
+    <string name="shadow_mode_desc">Hide typing, read receipts, and last seen simultaneously</string>
+    <string name="disappearing_messages">Disappearing Messages</string>
+    <string name="safety_numbers">Safety Numbers</string>
+    <string name="view_once">View Once</string>
+    <string name="sealed_sender">Sealed Sender Active</string>
+</resources>
